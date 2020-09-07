@@ -1,6 +1,6 @@
 ### Hello there, I'm Sree Haran.... Nice to see you in my profile 👋
 
-**I'm a young, energetic computer engineering student who loves building android apps. I'm currently working on Brain Computing and exploring new things in that field** 
+**I'm a young, energetic computer engineering student who loves building android apps. I'm currently involved in Brain Computing and exploring new things in that field.**
 
 - 🌱 I’m currently learning python
 - 🤔 I’m looking for help with BCI research
