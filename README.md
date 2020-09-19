@@ -1,4 +1,4 @@
-### Hello there, I'm Sree Haran.... Nice to see you in my profile 👋
+### Hello there, I'm [Sree Haran](https://sreeharan.github.io/).... Nice to see you in my profile 👋
 
 **I'm a young, energetic computer engineering student who loves building android apps. I'm currently involved in Brain Computing and exploring new things in that field.**
 
@@ -15,5 +15,14 @@
 ##
 
 ### Get in touch with me:
-| [![Twitter](https://img.icons8.com/metro/30/000000/twitter.png)](https://twitter.com/sreeharan_23) | [![LinkedIn](https://img.icons8.com/metro/30/000000/linkedin.png)](https://www.linkedin.com/in/sreeharan23) |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+<a title="LinkedIn" href="https://www.linkedin.com/in/sreeharan23">
+  <img align="left" alt="Connect in LinkedIn" src="https://img.icons8.com/metro/30/000000/linkedin.png" width="30px">
+</a>
+
+<a title="Twitter" href="https://twitter.com/sreeharan_23">
+  <img align="left" alt="Sree Haran's Twitter account" src="https://img.icons8.com/metro/30/000000/twitter.png" width="30px">
+</a>
+
+<a title="Mail" href="mailto:sree23haran2002@gmail.com">
+  <img align="left" alt="Mail to Sree Haran" src="https://img.icons8.com/material/38/000000/important-mail.png" width="30px">
+</a>
