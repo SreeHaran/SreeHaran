@@ -19,7 +19,7 @@
   <img align="left" alt="Connect in LinkedIn" src="https://img.icons8.com/cute-clipart/128/000000/linkedin.png" width="30px">
 </a>
 
-<a title="Twitter" href="https://twitter.com/sreeharan_23">
+<a title="Twitter" href="https://twitter.com/sreeharan_A">
   <img align="left" alt="Sree Haran's Twitter account" src="https://img.icons8.com/cute-clipart/128/000000/twitter.png" width="30px">
 </a>
 
