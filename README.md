@@ -1,11 +1,5 @@
 ### Hello there, I'm [Sree Haran](https://sreeharan.github.io/).... Nice to see you in my profile 👋
 
-**I'm a young, energetic computer engineering student who loves building android apps. I'm currently involved in Brain Computing and exploring new things in that field.**
-
-- 🌱 I’m currently learning python
-- 🤔 I’m looking for help with BCI research
-- 💬 Ask me about android
-
 ##
 ![Sree Haran's github stats](https://github-readme-stats.vercel.app/api?username=SreeHaran&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
